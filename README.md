@@ -14,6 +14,7 @@ Para el funcionamiento de la aplicación se necesitaran las siguientes versiones
 ## Campos de la Tabla Prices
 
 Dentro de la tabla Prices, tenemos las siguientes columnas que se ven en la imagen a continuación:
+![image](https://github.com/user-attachments/assets/a9df2749-f912-4486-b506-2c0f5a724db3)
 
 
 Dichos campos son los siguientes:
